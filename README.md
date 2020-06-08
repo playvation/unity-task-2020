@@ -1,5 +1,3 @@
-# Unity task 2020
-
 Thank you for applying to the Software Engineer role at Playvation! Since a significant part of our product is a Unity mobile game, we are looking for some Unity skillz! 💪💪💪
 
 Download the following example project, which is a very rough version of Flappy Bird:
