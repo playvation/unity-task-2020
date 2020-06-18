@@ -41,5 +41,8 @@ Pick a few of these to show off, or use your own imagination:
 
 You have **one week** to do the task, although message us if you need more time! If we don't hear from you after one week, we will interpret it as "not interested in the job 💩".
 
+## Submission
+
+Send a link to the github repo to our senior dev Ville Lindholm (e-mail in the form of firstname.lastname@playvation.com), or whatever platform you have been communicating with us on :)
 
 Happy hacking!
